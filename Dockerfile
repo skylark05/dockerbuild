@@ -1,2 +1,2 @@
 FROM busybox:latest
-ADD .
+ADD . /code
